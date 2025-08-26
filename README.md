@@ -33,6 +33,7 @@ Personalization: Generates simple text recommendations based on the predicted cl
 ## Environment Setup
 
 Python: 3.9+ (works with newer versions too)
+
 Key libraries:
 pandas, numpy
 scikit-learn
