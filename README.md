@@ -1,4 +1,9 @@
- 
+## Personalized Healthcare Prediction 
+
+<img width="2048" height="1249" alt="health" src="https://github.com/user-attachments/assets/17476669-0107-49b7-a356-9ca38c8d478a" />
+
+
+
  
 This repository contains a hands-on machine learning project that predicts the likelihood of a donor giving blood in the future and generates simple, human-readable recommendations for donor engagement. The workflow lives in a single Jupyter notebook: Healthcare_Predictions.ipynb.
  
